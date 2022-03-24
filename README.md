@@ -1,4 +1,4 @@
-# Builing-Energy-Load-Prediction
+# Building-Energy-Load-Prediction
 Machine Learning Model for prediction of Heat Load and Cooling Load for Energy Efficient Buildings.
 
 ![Screenshot](ee.jpg)
